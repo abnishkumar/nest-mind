@@ -1,0 +1,9 @@
+Flask==2.3.2
+python-dotenv==1.0.0
+langchain==0.0.196
+langchain-groq==0.1.0
+langchain-openai==0.0.1
+langchain-community==0.0.5
+faiss-cpu==1.7.4
+openai==0.27.0
+watchdog==2.2.1
